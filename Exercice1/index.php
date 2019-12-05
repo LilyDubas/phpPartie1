@@ -1,3 +1,6 @@
+<?php
+$name = "Lily";
+ ?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
 	<head>
@@ -10,7 +13,6 @@
 	<div class="jumbotron m-auto text-center">
 		<h1>My name is, my name is, my name is :</h1>
 		<?php
-		$name = "Lily";
 		echo $name;
 		?>
 	</div>
